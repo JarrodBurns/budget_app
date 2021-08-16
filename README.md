@@ -3,9 +3,9 @@
 This class can be easily integrated for a project of any size. It can offer a starting point for a larger application, or function on its own with minimal input from the user. This project is intended to be handled by someone with a basic understanding of programming and programming concepts.
 
 - Develop budgets
-- Make deposits/withdrawls
+- Make deposits/withdrawals
 - Track expenses
-- Visualize spending habbits
+- Visualize spending habits
 
 ## Develop Budgets
 
@@ -13,7 +13,7 @@ In the following example we can see that multiple budgets can be tracked at once
 
 ![budget_real](https://user-images.githubusercontent.com/87616660/129585089-bfb92ea4-395e-400e-9f4b-e3bec6454fcc.png)
 
-## Visualize Spending Habbits
+## Visualize Spending Habits
 
 You may also find it helpful to visualize how you spend your money. With the included spend chart doing just that is simple and concise.
 
